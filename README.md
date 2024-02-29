@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekram</h1>
 <h3 align="center">Software developer | AI/ML Enthusiast</h3>
-<img alt="coding" src="[https://storage.googleapis.com/paiimages/353b50a812834d1bb065a276a3983ec7.jpeg](https://playgroundai.com/post/a-beautifull-muslim-girl-is-doing-teaching-online-on-laptp-w-clr3j02lp0gkqs601kyv6hyfj)">
+<img align="right" alt="coding" width="400" src="https://storage.googleapis.com/pai-images/353b50a812834d1bb065a276a3983ec7.jpeg">
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
