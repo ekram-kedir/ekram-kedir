@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekram</h1>
-<h3 align="center">Software developer | AI/ML Enthusiast</h3>
+<h3 align="center">Software developer | Generative AI Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://storage.googleapis.com/pai-images/353b50a812834d1bb065a276a3983ec7.jpeg">
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
